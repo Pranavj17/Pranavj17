@@ -68,14 +68,12 @@ Query production logs using natural language. Analyze error patterns, correlate 
 </td>
 <td width="50%">
 
-#### [Memory MCP Server](https://github.com/Pranavj17/memory)
-**Production-Ready Memory Storage**
+#### Memory MCP Server
+**Production-Ready Memory Storage (Internal at Scripbox)**
 
-PostgreSQL-backed MCP server with trigram similarity search, workflow orchestration, and automated ticket triage (94%+ accuracy).
+PostgreSQL-backed MCP server with trigram similarity search, workflow orchestration, and automated ticket triage (94%+ accuracy). Internal tool enhancing AI-powered debugging capabilities.
 
 **Tech**: Elixir, PostgreSQL, Ecto, MCP Protocol
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)](https://github.com/Pranavj17/memory)
 
 </td>
 </tr>
